@@ -2,6 +2,11 @@
 
 este es un ensayo.
 ---------
+
 ensayo 2.
+
 ---------
+
 ensayo 3.
+
+---------
