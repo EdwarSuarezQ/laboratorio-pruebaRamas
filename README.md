@@ -1,4 +1,7 @@
 # laboratorio-pruebaRamas
 
-este es un ensayo
+este es un ensayo.
+---------
 ensayo 2.
+---------
+ensayo 3.
