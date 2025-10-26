@@ -18,5 +18,3 @@ ensayo 4.
 ensayo 5.
 
 ---------
-
-🕒 Hora actual: **{{HORA_ACTUAL}} (UTC -05:00)**
