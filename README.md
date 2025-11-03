@@ -1,4 +1,4 @@
-# laboratorio-pruebaRamas
+# Laboratorio prueba Ramas
 
 este es un ensayo.
 ---------
